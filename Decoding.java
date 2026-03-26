@@ -2,7 +2,7 @@ import org.opencv.core.*;
 import org.opencv.videoio.*;
 import java.util.Random;
 
-public class p3 {
+public class Decoding {
 
     static { System.loadLibrary(Core.NATIVE_LIBRARY_NAME); }
 
