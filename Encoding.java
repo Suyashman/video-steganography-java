@@ -3,7 +3,7 @@ import org.opencv.videoio.*;
 import java.util.Random;
 import java.util.Scanner;
 
-public class p2 {
+public class Encoding {
 
     static { System.loadLibrary(Core.NATIVE_LIBRARY_NAME); }
 
